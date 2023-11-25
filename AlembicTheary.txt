@@ -1,0 +1,13 @@
+
+    Alembic asosan katta hajmli ma'lumotlarni uzatish uchun ishlatiladi.
+Alembic migratsiyani amalga oshirish uchun foydalanuvchilar odatda
+manba va maqsadli dasturiy ta'minot ilovalari, shuningdek, Alembic
+formatining o'zi haqida asosiy tushunchaga ega bo'lishlari kerak.
+Shuningdek, ular ma'lumotlarning to'g'ri uzatilishini ta'minlash
+uchun ikkala ilovada ham sozlamalar va konfiguratsiyalarni sozlashlari
+kerak bo'lishi mumkin.Alembik migratsiya jarayoni odatda bitta dastur
+ilovasidan ma'lumotlarni Alembic formatida eksport qilishni va keyin
+uni boshqa ilovaga import qilishni o'z ichiga oladi.Bu uni turli xil
+ma'lumotlar tuzilmalari yoki cheklovlariga ega bo'lishi mumkin bo'lgan
+turli xil dasturiy ilovalar o'rtasida ma'lumotlarni uzatish uchun ideal qiladi.
+
